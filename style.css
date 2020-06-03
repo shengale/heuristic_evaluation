@@ -1,0 +1,42 @@
+body {
+    background: #1D1C1C;
+    color: #ffffff;
+    padding: 50px;
+    font-family: Helvetica;
+}
+
+h1 {
+    font-size: 3em;
+    padding: 5px;
+    border-top: groove #424242;
+    border-left: groove #424242;
+    border-right: groove #424242;
+    border-bottom: solid #424242;
+}
+
+h2 {
+    font-size: 3em;
+}
+
+.AS {
+    font-family: Courier;
+    color: rgb(19, 179, 228);
+}
+
+#Movie-header {
+    color: rgb(228, 214, 20);
+    font-variant: small-caps;
+    letter-spacing: 1px;
+}
+#8HE {
+    background: #424242;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.speaking-scene {
+    background: #424242;
+    padding: 3px;
+}
