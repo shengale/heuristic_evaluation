@@ -23,6 +23,11 @@ h2 {
     color: rgb(19, 179, 228);
 }
 
+.desc {
+    font-family: Courier;
+    color: rgb(255, 255, 255);
+}
+
 #Evaluation-header {
     color: rgb(228, 214, 20);
     font-variant: small-caps;
