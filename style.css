@@ -20,7 +20,7 @@ h2 {
 
 .AS {
     font-family: Courier;
-    color: rgb(19, 179, 228);
+    color: rgb(228, 214, 20);
 }
 
 .desc {
@@ -33,7 +33,7 @@ h2 {
     font-variant: small-caps;
     letter-spacing: 1px;
 }
-#HE1 {
+#HE-img {
     background: #424242;
     width: 800px;
     height: 400px;
@@ -42,7 +42,7 @@ h2 {
     margin-right: auto;
 }
 
-.speaking-scene {
+.he-desc {
     background: #424242;
     padding: 3px;
 }
