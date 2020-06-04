@@ -68,8 +68,7 @@ h2 {
 }
 
 .caption {
-    background: #424242;
-    padding: 1px;
+    border:2px green;
     text-align: center;
     display: inline;
 }
