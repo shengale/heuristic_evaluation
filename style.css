@@ -21,6 +21,7 @@ h2 {
 .AS {
     font-family: Courier;
     color: rgb(228, 214, 20);
+    font-size: 2em;
 }
 
 .desc {
@@ -44,5 +45,5 @@ h2 {
 
 .he-desc {
     background: #424242;
-    padding: 3px;
+    padding: 2px;
 }
