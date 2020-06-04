@@ -49,19 +49,20 @@ h2 {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    padding-top: 75px;
 }
 
 #HE-img3 {
     background: #1D1C1C;
     width: 800px;
-    height: 500px;
+    height: 450px;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    padding-top: 50px;
+    padding-top: 75px;
 }
 
 .he-desc {
     background: #424242;
-    padding: 2px;
+    padding: 1px;
 }
