@@ -35,7 +35,7 @@ h2 {
     letter-spacing: 1px;
 }
 #HE-img {
-    background: #424242;
+    background: #1D1C1C;
     width: 800px;
     height: 400px;
     display: block;
@@ -49,6 +49,16 @@ h2 {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+#HE-img3 {
+    background: #1D1C1C;
+    width: 800px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
 }
 
 .he-desc {
